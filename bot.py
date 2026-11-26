@@ -22,7 +22,7 @@ from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
 # ======= إعدادات البوت ======= #
-BOT_TOKEN = '8851309353:AAFgr_aRLPLAEkvEukz3C5GBUtUa2ed_Zes'
+BOT_TOKEN = '9133211357:AAGPCKFo6louo3Vzm6bwovtxEKzUsammwz4'
 ADMIN_ID = 1920665874
 YOUR_USERNAME = '@u_8_y'
 ADMIN_CHANNEL = '@M_6FW'
